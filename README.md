@@ -1,4 +1,8 @@
-Finance Data Pipeline: Actuals vs. Forecasts
+💹 Finance Data Pipeline: Actuals vs. Forecasts
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Pandas](https://img.shields.io/badge/data-pandas-orange)
 
 This repository contains a modular Python-based ETL (Extract, Transform, Load) pipeline. It automates the collection of financial data from Sage and Microsoft Dynamics AX, merges them into a unified transactions table, and processes Marketing/Tech forecasts for high-level variance analysis in Power BI.
 ## Project Overview
